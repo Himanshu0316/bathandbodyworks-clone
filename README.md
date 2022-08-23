@@ -79,6 +79,8 @@ of products and also remove products from cart.
 
 
 - 👤 [Anupam kumar](https://github.com/hlv-kakashi)
+- 👤 [Himanshu](https://github.com/Himanshu0316)
+
 
 
 
